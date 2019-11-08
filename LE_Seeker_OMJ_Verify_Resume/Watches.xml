@@ -1,0 +1,10 @@
+﻿<Properties>
+  <WatchEntry0 value="XPage.WebElement(objWebElemenVerification" />
+  <WatchEntry1 value="XPage.WebElement(objWebElemenVerification).name" />
+  <WatchEntry2 value="XPage.WebElement(objWebElemenVerification).value" />
+  <WatchEntry3 value="strInnertext" />
+  <WatchEntry4 value="Test3" />
+  <WatchEntry5 value="startPosition" />
+  <WatchEntry6 value="strResumeIdCtrlName" />
+  <WatchEntry7 value="endPosition" />
+</Properties>
